@@ -26,7 +26,7 @@ The Virtual Classroom Manager is a terminal-based application designed to manage
 ### Prerequisites
 
 - Java Development Kit (JDK): Ensure you have JDK 8 or higher installed on your machine.
-- Git: Required for version control.
+- Git: Required for version control
 
 ### Installation
 
@@ -37,3 +37,9 @@ The Virtual Classroom Manager is a terminal-based application designed to manage
    ```sh
    git clone https://github.com/fayeekagit/virtual-classroom-manager.git
 
+
+![op1](https://github.com/user-attachments/assets/dd27207f-97b5-48a1-a5e2-968745b9a0cf)
+
+![op2](https://github.com/user-attachments/assets/900b28d8-3325-416f-8a61-4995734bcc98)
+
+![op-3](https://github.com/user-attachments/assets/fcd31900-2540-40ff-a119-67ea7a849bd9)
