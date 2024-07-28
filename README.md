@@ -37,7 +37,7 @@ The Virtual Classroom Manager is a terminal-based application designed to manage
 
 Clone the repository to your local machine using Git:
 
-```sh
+
 git clone https://github.com/fayeekagit/virtual-classroom-manager.git
 
 ![op1](https://github.com/user-attachments/assets/e900c42c-1b19-4a12-99db-6325e96818cf)
