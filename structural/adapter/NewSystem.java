@@ -1,0 +1,3 @@
+interface NewSystem {
+    void request();
+}
