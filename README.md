@@ -40,11 +40,9 @@ Clone the repository to your local machine using Git:
 ```sh
 git clone https://github.com/fayeekagit/virtual-classroom-manager.git
 
+![op1](https://github.com/user-attachments/assets/e900c42c-1b19-4a12-99db-6325e96818cf)
 
-![op1](https://github.com/user-attachments/assets/abb54ef1-bd93-4e34-86a8-10e003a30ce0)
+![op2](https://github.com/user-attachments/assets/2ad978f7-9a56-42bc-847d-520ed24555db)
 
-![op2](https://github.com/user-attachments/assets/6c99a4f3-c8a9-4b90-83b5-ad771af91bc6)
-
-![op-3](https://github.com/user-attachments/assets/dd7b539b-ee6b-42e0-a8c6-3f436cc752b4)
-
+![op-3](https://github.com/user-attachments/assets/64c6177e-5253-4287-b5db-1ba13506db07)
 
